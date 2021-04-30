@@ -1,0 +1,5 @@
+POST http://localhost:7071/api/CallSql
+
+###
+
+POST https://mfdbconnect.azurewebsites.net/api/CallSql?code=L1myVS8UJfcjilYduBa1tsdswrVasVovjeOKFfrVqdbfFBwA86XdMQ==
